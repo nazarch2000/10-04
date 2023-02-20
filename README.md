@@ -29,7 +29,10 @@
 
 *Пришлите конфигурационные файлы для bacula-dir, bacula-sd,  bacula-fd.*
 
-(bacula-dir.conf)
+[bacula-dir](bacula-dir.conf)
+[bacula-sd](bacula-sd.conf)
+[bacula-fd](bacula-fd.conf)
+
 ---
 
 ### Задание 3
