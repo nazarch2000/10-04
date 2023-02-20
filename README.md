@@ -29,6 +29,12 @@
 
 *Пришлите конфигурационные файлы для bacula-dir, bacula-sd,  bacula-fd.*
 
+![image](https://user-images.githubusercontent.com/106932460/220160335-8ad3d685-fab3-4a51-b128-5f1caa396983.png)
+
+[bacula-dir](bacula-dir.conf)
+[bacula-sd](bacula-sd.conf)
+[bacula-fd](bacula-fd.conf)
+
 ---
 
 ### Задание 3
@@ -36,6 +42,11 @@
 Установите программное обеспечении Rsync. Настройте синхронизацию на двух нодах. Протестируйте работу сервиса.
 
 *Пришлите рабочую конфигурацию сервера и клиента Rsync.*
+
+
+
+![image](https://user-images.githubusercontent.com/106932460/220169052-853bd982-ad6c-488f-a12d-9307ab6854af.png)
+
 
 ---
 
