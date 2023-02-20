@@ -63,11 +63,15 @@
 
 *Пришлите рабочую конфигурацию выбранного сервиса по поставленной задаче.*
 
-rsync
+Rsync
 
 Инкрементное работает корректно, только я думал, что новые файлы будут сохранятся в папку incremental, а не в current, зачем тогда папка incremental?
 
 ![image](https://user-images.githubusercontent.com/106932460/220198235-f87add3e-3de2-40dc-8271-56bb4770338a.png)
 
 ![image](https://user-images.githubusercontent.com/106932460/220197403-de89542e-3cc6-4b03-87c2-fe36b5a74960.png)
+
+![image](https://user-images.githubusercontent.com/106932460/220198361-195f708b-c0ea-4f29-a537-ba0303a316bc.png)
+
+Bacula
 
