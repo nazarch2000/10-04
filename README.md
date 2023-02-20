@@ -43,9 +43,11 @@
 
 *Пришлите рабочую конфигурацию сервера и клиента Rsync.*
 
-
-
 ![image](https://user-images.githubusercontent.com/106932460/220169052-853bd982-ad6c-488f-a12d-9307ab6854af.png)
+
+[BASH скрипт](backup-node1.sh)
+[rsyncd.conf](rsyncd.conf)
+[rsyncd.scrt](rsyncd.scrt)
 
 
 ---
