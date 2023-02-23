@@ -74,21 +74,5 @@ Rsync
 ![image](https://user-images.githubusercontent.com/106932460/220198361-195f708b-c0ea-4f29-a537-ba0303a316bc.png)
 
 Bacula
-НЕ ПОЛУЧИЛОСЬ С УДАЛЕННЫМ КЛИЕНТОМ,ОН К НЕМУ НЕ МОЖЕТ ПОДКЛЮЧИТСЯ 
-100500 паролей что к чему не ясно ЧТО ТАКОЕ JobDefs который ругается
- 
- ЭТО ЗАЧЕМ НЕ ЯСНО
 
-Console {
-  Name =BackupServer-mon
-  Password = "31oWytt-VYOYfIIQv0RGVpvdbXnoJYWv3"
-  CommandACL = status, .status
-}
-
-Ошибки пошли
-
-![image](https://user-images.githubusercontent.com/106932460/220941132-9f9bf945-e6a7-4785-984f-8ad12e9d991e.png)
-![image](https://user-images.githubusercontent.com/106932460/220941298-5129a1da-c9cf-499d-9604-3e284ad6fc12.png)
-![image](https://user-images.githubusercontent.com/106932460/220941416-c1ee9d5d-9e3f-4e17-836e-05fce21fa04b.png)
-![image](https://user-images.githubusercontent.com/106932460/220941486-191313cd-c2ca-4085-a519-1857ca21674b.png)
-
+ЗАКОЛЕБАЛСЯ С ЭТИМИ ПАРОЛЯМИ, ЧТО К ЧЕМУ
