@@ -74,4 +74,4 @@ Rsync
 ![image](https://user-images.githubusercontent.com/106932460/220198361-195f708b-c0ea-4f29-a537-ba0303a316bc.png)
 
 Bacula
-
+НЕ ПОЛУЧИЛОСЬ С УДАЛЕННЫМ КЛИЕНТОМ,ОН К НЕМУ НЕ МОЖЕТ ПОДКЛЮЧИТСЯ 
