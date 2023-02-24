@@ -75,4 +75,15 @@ Rsync
 
 Bacula
 
-ЗАКОЛЕБАЛСЯ С ЭТИМИ ПАРОЛЯМИ, ЧТО К ЧЕМУ
+Ко всем клиентам подключается
+
+![image](https://user-images.githubusercontent.com/106932460/221210371-6ea59465-833e-4877-a63d-b67ba45417a7.png)
+
+![image](https://user-images.githubusercontent.com/106932460/221211410-4105b6f5-057d-490e-b178-aca56ea346af.png)
+
+Команды для резервного копирования
+
+```
+bconsole
+```
+
