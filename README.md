@@ -84,6 +84,27 @@ Bacula
 Команды для резервного копирования
 
 ```
-bconsole
+run
+2: RemoteBackup (для удаленного клиента)
+или
+1: LocalBackup (для локального сервера)
+```
+Проверяю что бэкап успешно завершен
+```
+messages
+Termination: Backup OK
+```
+Дальше процесс восстановления 
+```
+restore all
+5: Select the most recent backup for a client
+2: node2-fd
+done 
+2: RestoreRemote
+```
+Проверяю, что восстановление прошло успешно
+```
+messages
+Termination: Restore OK
 ```
 
