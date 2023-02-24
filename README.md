@@ -107,3 +107,12 @@ Termination: Restore OK
 ```
 
 ![image](https://user-images.githubusercontent.com/106932460/221211410-4105b6f5-057d-490e-b178-aca56ea346af.png)
+
+Файлы на node1, который является бэкап сервером
+
+[bacula-dir](bacula-dir2.conf)
+[bacula-sd](bacula-sd2.conf)
+
+FileDaemon на node2
+
+[bacula-fd](bacula-fd2.conf)
